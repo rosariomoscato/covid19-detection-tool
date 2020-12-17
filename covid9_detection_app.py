@@ -1,3 +1,11 @@
+"""
+Created on Sun Jun 14 18:31:28 2020
+@author: Rosario Moscato
+Required Packages: streamlit opencv-python Pillow numpy tensorflow
+CNN Model: Covid19_CNN_Classifier.h5
+"""
+
+
 # Core Pkgs
 import streamlit as st
 st.set_page_config(page_title="Covid19 Detection Tool", page_icon="covid19.jpeg", layout='centered', initial_sidebar_state='auto')
