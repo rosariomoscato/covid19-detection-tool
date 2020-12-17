@@ -4,7 +4,7 @@ To OPEN **Covid-19 Detection Tool** click here:
 
 
 
-# Covid19_Detector
+# Covid-19 Detection Tool
 ### Simple Tool for Covid-19 Detection from Chest X-Ray
 
 
