@@ -1,6 +1,10 @@
 # Covid19_Detector
 ### Simple Tool for Covid-19 Detection from Chest X-Ray
 
+To OPEN **Covid-19 Detection Tool** click here: 
+
+[![Streamlit APP](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/rosariomoscato/covid19-detection-tool/covid19_detection_app.py)
+
 ## Disclaimer
 **This Tool is just a DEMO about Artificial Neural Networks so there is no clinical value in its diagnosis and the author is not a Doctor!**
 **Please don't take the diagnosis outcome seriously and NEVER consider it valid!!!**
